@@ -1,0 +1,4 @@
+# ID Type Element Name Level Gold Attack Defense AttackU DefenseU Weapon Special Play
+1 Unit Neutral Cake_Warrior_1 1 3 5 30 2 5 1 None None
+2 Unit Neutral Cake_Warrior_2 1 3 2 80 1 10 1 None None
+3 Unit Neutral Cake_Warrior_3 1 3 4 40 1 5 2 None None
